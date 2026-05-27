@@ -1,0 +1,7 @@
+name = "edge-iptv"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+TMDB_API_KEY = "47deb77a33325066c4710229c2481f05"
+TMDB_ACCESS_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0N2RlYjc3YTMzMzI1MDY2YzQ3MTAyMjljMjQ4MWYwNSIsIm5iZiI6MTc3OTkwMjMyMi4wMDEsInN1YiI6IjZhMTcyNzcxNjQ3NTIwZTJkOGVhNGVlNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.OpDUu5hHEywOpCRJk_5PMXInZAhh2oLHZSJQgKubns4"

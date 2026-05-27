@@ -1,0 +1,6 @@
+{
+  "name": "Edge IPTV",
+  "description": "A high-performance HLS/M3U8 streaming IPTV web player with smart EPG/metadata detection, live status checks, and vision context search powered by Mistral AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

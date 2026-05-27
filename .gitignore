@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.wrangler/
+*.log
+.DS_Store
+edge_metadata.db
+temp_clone/
+export-github.js
+export.log
